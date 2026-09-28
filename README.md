@@ -8,5 +8,5 @@ View the latest news here:
   
 <a href="/BasicWebDesign/vpna.html" target="_self"> Walk to end Alzheimer's event in Sturgeon Bay. </a>
 <br/>
-<a href="/folder1/untitled.html" target="self"> page </a> 
+<a href="/Folder1/untitled.html" target="self"> page </a> 
 </p>
