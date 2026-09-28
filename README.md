@@ -6,4 +6,6 @@ This news website was founded in the September of 2026. We here at Very Professi
 View the latest news here:
 <br/>
   
-<a href="/BasicWebDesign/vpna.html" target="_self"> Walk to end Alzheimer's event in Sturgeon Bay. </a></p>
+<a href="/BasicWebDesign/vpna.html" target="_self"> Walk to end Alzheimer's event in Sturgeon Bay. </a>
+<a href="/folder1/untitled.html" target="self"> page </a> 
+</p>
