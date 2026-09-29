@@ -1,4 +1,4 @@
-<p> <h1>Sean Miller's Very Professional News Outlet</h1>
+<p> <h1>Sean Miller's Very Professional News Outlet & Public Image Gallery</h1>
 <br/> 
 This news website was founded in the September of 2026. We here at Very Professional News Outlet, (VPNO) strive to ensure an excellent quality of reports and articles about the recent world around all of us. VPNO is centered in Northeast Wisconsin, on a singular library computer.
 </p>
