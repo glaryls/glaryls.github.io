@@ -12,5 +12,4 @@ View the latest news here:
 
 </br>
 
-<a href="/Folder1/homepage.html" target="self">  secret page </a> 
 </p>
