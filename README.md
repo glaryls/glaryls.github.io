@@ -10,6 +10,6 @@ View the latest news here:
 <br/>
 <a href="/BasicWebDesign/flowergallery.html" target="self"> Flower Gallery </a>
 
-</br>
+
 
 </p>
