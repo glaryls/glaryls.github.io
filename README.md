@@ -3,5 +3,5 @@
 </p>
 <p>
 <br/>
-<a href="/BasicWebDesign/flowergallery.html" target="self"> Flower Gallery </a>
+<a href="/BasicWebDesign/useless-tables.html" target="self"> Useless table #1 </a>
 </p>
