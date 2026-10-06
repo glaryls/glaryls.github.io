@@ -3,7 +3,23 @@
 <head>
 <title> this table is make up </table>
 </head>
+
 <body>
-<p> text </p>
+
+<table>
+
+<caption> 
+
+<tr>
+
+<th colspan="3"> bing </th>
+
+</tr>
+
+
+
+
+
 </body>
 </html>
+
