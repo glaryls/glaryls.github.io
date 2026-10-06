@@ -1,4 +1,4 @@
-<p> <h1>Sean Miller's Public Image Gallery</h1>
+<p> <h1>Sean Miller's Public Useless Table Area</h1>
 <br/> 
 </p>
 <p>
