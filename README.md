@@ -3,5 +3,5 @@
 </p>
 <p>
 <br/>
-<a href="/BasicWebDesign/useless-tables.html" target="self"> Useless table #1 </a>
+<a href="/BasicWebDesign/useless-table.html" target="self"> Useless table #1 </a>
 </p>
