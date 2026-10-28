@@ -3,5 +3,5 @@
 </p>
 <p>
 <br/>
-<a href="/BasicWebDesign/ManyMenus.html" target="self"> A fishy color pallete </a>
+<a href="/BasicWebDesign/ManyMenus.html" target="self"> A Three Part Menu </a>
 </p>
