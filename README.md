@@ -1,7 +1,7 @@
-<p> <h1>Sean Miller's Public Menu Area</h1>
+<p> <h1>Sean Miller's Public Schedule Area</h1>
 <br/> 
 </p>
 <p>
 <br/>
-<a href="/BasicWebDesign/ManyMenus.html" target="self"> A Three Part Menu </a>
+<a href="/BasicWebDesign/styledschedule.html" target="self"> A Simple Schedule </a>
 </p>
