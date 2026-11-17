@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>stab someone, i will</title>
+        <style>
+            section.puzzlecontainer { /*beggiigngingng of puzzle*/
+                display:flex;
+                flex-direction:row;
+                justify-content:center;
+                min-width:660px;
+                max-width:819px;
+                margin:auto;
+                flex-wrap:wrap;
+            }
+            div.puzzlepiece {
+                border:2px, solid, black;
+                height:110px;
+                width:150px;
+                margin:5px;
+            } /* end o' puzzle */
+            section.basegrid {
+                display:grid;
+                grid-template-columns: repeat(3 1fr);
+                grid-template:
+                'in in .'
+                'pz pz pz'
+                '. ds ds'
+            }
+            div.Intro {
+            grid-area:in;
+            border:1px black solid;
+            }
+            div.Puzzle {
+            grid-area:pz;
+            border:1px solid black;
+            }
+            div.Desc {
+            grid-area:ds;
+            border:1px black solid;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="basegrid">
+            
+            <div class="Intro">
+                this is the intro
+            </div>
+            
+            <div class="Puzzle">
+       <section class="puzzlecontainer">
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <!-- ROW 2 -->
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <!-- ROW 3 -->
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <!-- ROW 4 -->
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <div class="puzzlepiece" style="background-color:black;"></div>
+           <div class="puzzlepiece" style="background-color:black;"></div>
+       </section>
+       </div>
+       
+       <div class="Desc">
+           this is the description
+       </div>
+       
+       </section>
+    </body>
+    </html>
