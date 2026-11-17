@@ -2,6 +2,10 @@
 <html><head>
         <title>Peculiar Puzzling Puzzle Pieces</title>
         <style>
+                body {
+                        background-color:#FFa9ce;
+                        
+                }
             section.puzzlecontainer { /*beggiigngingng of puzzle*/
                 display:flex;
                 flex-direction:row;
@@ -23,19 +27,24 @@
                 grid-template:
                 'in in .'
                 'pz pz pz'
-                '. ds ds'
+                '. ds ds';
+                border:2px, black, solid;
+                
             }
             div.Intro {
             grid-area:in;
             border:1px black solid;
+                    background-color:rgba(255,255,255,0.4);
             }
             div.Puzzle {
             grid-area:pz;
             border:1px solid black;
+                    background-color:rgba(255,255,255,0.4);
             }
             div.Desc {
             grid-area:ds;
             border:1px black solid;
+                    background-color:rgba(255,255,255,0.4);
             }
         </style>
     </head>
