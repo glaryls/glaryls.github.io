@@ -3,6 +3,10 @@
     <head>
         <title>Peculiar Puzzling Puzzle Pieces</title>
         <style>
+            body {
+                background-color:rgba(230, 130, 150, 0.8);
+                font-family:helvetica:
+            }
             section.puzzlecontainer { /*beggiigngingng of puzzle*/
                 display:flex;
                 flex-direction:row;
@@ -16,7 +20,7 @@
                 border:2px, solid, black;
                 height:110px;
                 width:150px;
-                margin:5px;
+                margin:0px;
             } /* end o' puzzle */
             section.basegrid {
                 display:grid;
@@ -25,6 +29,8 @@
                 'in in .'
                 'pz pz pz'
                 '. ds ds'
+                ;
+                border:2px, solid, black;
             }
             div.Intro {
             grid-area:in;
@@ -32,7 +38,7 @@
             }
             div.Puzzle {
             grid-area:pz;
-            border:1px solid black;
+            border:0px solid black;
             }
             div.Desc {
             grid-area:ds;
