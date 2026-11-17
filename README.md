@@ -3,5 +3,5 @@
 </p>
 <p>
 <br/>
-<a href="/BasicWebDesign/team_outline.html" target="self"> The team behind VPNO </a>
+<a href="/BasicWebDesign/PuzzlingPuzzle.html" target="self"> The team behind VPNO </a>
 </p>
