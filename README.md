@@ -3,7 +3,7 @@
 </p>
 <p>
 <br/>
-<a href="/BasicWebDesign/Game1Scorecard.html" target="self"> Scorecard one </a>
-<a href="/BasicWebDesign/Game2Scorecard.html" target="self"> Scorecard two </a>
-<a href="/BasicWebDesign/Game3Scorcard.html" target="self"> 'Scorcard' three </a>
+<a href="/BasicWebDesign/Game1Scorecard.html" target="self"> Scorecard one </a><br>
+<a href="/BasicWebDesign/Game2Scorecard.html" target="self"> Scorecard two </a><br>
+<a href="/BasicWebDesign/Game3Scorcard.html" target="self"> 'Scorcard' three </a><br>
 </p>
