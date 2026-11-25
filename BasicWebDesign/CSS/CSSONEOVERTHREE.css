@@ -31,6 +31,7 @@
     }
     table {
         margin:5px;
+        border-collapse:collapse;
     }
     th {
         border:2px black solid;
